@@ -10,8 +10,8 @@ Para eliminar las imágenes previamente creadas y borrar la caché de esas imág
 
 ### Paso 2: Borrar el contenedor y su respectiva imagen
  
- ## Borra la imagen:    docker rmi java_app
- ## Borra el contenedor: docker rm crud-java
+ Borra la imagen:    docker rmi java_app
+ Borra el contenedor: docker rm crud-java
 
 Una vez eliminadas las imágenes y la caché, nos vamos al paso 3. 
 
